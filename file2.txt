@@ -1,1 +1,3 @@
 this is the file that i will send to get hub
+addinf file
+version 1
